@@ -1,12 +1,12 @@
 # Olá, bem-vindo(a) ao meu perfil👋
 
 <h1 align="center">
- <img src="https://raw.githubusercontent.com/CloretoJannuzzi/CloretoJannuzzi/main/1649820403164.png"/>
+ <img src="https://github.com/VictorJannuzzi/VictorJannuzzi/blob/main/Database%20Administrator%20SQL%20Server.png?raw=true"/>
 </h1>
 
 <div align='center'>
   <a href = 'https://twitter.com/CloretoJannuzzi' target="_blank" rel="nopeener" ><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href = 'https://www.linkedin.com/in/victor-hugo-santos-5978b6216'  target="_blank" rel="nopeener" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href = 'https://www.linkedin.com/in/victor-hugo-santos-dba'  target="_blank" rel="nopeener" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href='https://www.instagram.com/victorh_jannuzzi/'  target="_blank" rel="nopeener" ><img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> 
   <a href='https://www.facebook.com/profile.php?id=100008118695213'  target="_blank" rel="nopeener" ><img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
 </div>
