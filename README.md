@@ -1,7 +1,7 @@
 # Olá, bem-vindo(a) ao meu perfil👋
 
 <h1 align="center">
- <img src="https://github.com/VictorJannuzzi/VictorJannuzzi/blob/main/Database%20Administrator%20SQL%20Server.png?raw=true"/>
+ <img src="https://github.com/VictorJannuzzi/VictorJannuzzi/blob/main/Database%20Administrator%20SQL%20Server%20(1).png?raw=true"/>
 </h1>
 
 <div align='center'>
@@ -11,7 +11,6 @@
   <a href='https://www.facebook.com/profile.php?id=100008118695213'  target="_blank" rel="nopeener" ><img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
 </div>
 <div align='center'>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=VictorJannuzzi&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorJannuzzi&layout=compact&hide_border=true&langs_count=7&theme=dark"/>
  
 # Já utilizei: #
