@@ -35,15 +35,15 @@
 
 # _Sobre mim:_
 
-_Tenho 19 anos, vivo no RJ, sou formado no técnico em Rede de Computadores e atualmente estou atuando como Administrador de Banco de Dados Pleno - SQL Server, apaixonado pela tecnologia desde muito novo_ 😍
+_Tenho 20 anos, vivo no RJ, sou formado no técnico em Rede de Computadores e atualmente estou atuando como Administrador de Banco de Dados, apaixonado pela tecnologia desde muito novo_ 😍
 
 _Iniciando em 2024 a Graduação de Análise e Desenvolvimento de Sistemas na Faculdade Impacta_
 
 _Apesar de ser Jovem, possuo uma boa curva de aprendizado quando bem instruido, não tenho dificuldades de conversar com as pessoas, sou bem comunicativo e participativo, desde a escola tenho o prazer em ajudar ou auxiliar com problemas que meus companheiros enfrentam, pois eu sei que ambos iremos aprender diante de alguns desafios. Além disso, no dia a dia de trabalho, visto que atuo em diversos ambientes, a cooperação é importantíssima para desempenharmos um bom trabalho para os nossos clientes._
 
 
-- 🧠 Atualmente focado nos estudos em MSSQL e temas abordados na faculdade de ADS.
+- 🧠 Atualmente focado nos estudos relacionados a AWS e temas abordados na faculdade de ADS.
 - 🧪 Tenho metas para criar alguns projetos com o conhecimento que estou adquirindo e publicá-los. 
-- 🎲 Iniciei na área de DBA em SQL Server, como Acelera Jovem e com 8 meses fui efetivado e após 6 meses fui promovido ao Nível Pleno que o nível em que estou atualmente.
+- 🎲 Iniciei na área de DBA em SQL Server, como Acelera Jovem e com 8 meses fui efetivado e após 6 meses fui promovido ao Nível Pleno e após quase 1 ano, recebi a oportunidade de trabalhar alocado no BTG PActual.
 
 Estou dando os meus primeiros passos para se tornar um excelente profissional em 🏦🎲,☁️, 🐍, desenvolvimento web e em outras áreas💻
