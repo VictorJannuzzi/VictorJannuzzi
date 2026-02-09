@@ -44,6 +44,6 @@ _Apesar de ser Jovem, possuo uma boa curva de aprendizado quando bem instruido, 
 
 - 🧠 Atualmente focado nos estudos relacionados a AWS e temas abordados na faculdade de ADS.
 - 🧪 Tenho metas para criar alguns projetos com o conhecimento que estou adquirindo e publicá-los. 
-- 🎲 Iniciei na área de DBA em SQL Server, como Acelera Jovem e com 8 meses fui efetivado e após 6 meses fui promovido ao Nível Pleno e após quase 1 ano, recebi a oportunidade de trabalhar alocado no BTG PActual, onde atuo a mais 1 ano.
+- 🎲 Iniciei na área de DBA em SQL Server, como Acelera Jovem e com 8 meses fui efetivado e após 6 meses fui promovido ao Nível Pleno e após quase 1 ano, recebi a oportunidade de trabalhar alocado no BTG PActual, onde atuei por caso 2 anos e atualmente atuo como DBA Pleno dentro do PicPay.
 
 Estou caminhando para se tornar um excelente profissional em banco de dados.
